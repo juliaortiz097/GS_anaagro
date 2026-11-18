@@ -17,7 +17,7 @@
 
 ## 🎥 Vídeo demonstrativo
 
-**Link do vídeo:** EDITAR E COLOCAR AQUI
+https://youtube.com/shorts/-UivjulZLUg?is=V4yHEb4wDx8ISvY_
 
 O vídeo apresenta a montagem do protótipo, os componentes utilizados, a integração entre Arduino e Python e o funcionamento da assistente por comandos de voz.
 
