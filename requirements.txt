@@ -1,0 +1,24 @@
+
+# ANA AGRO - FIAP GLOBAL SOLUTION
+# Dependencias Python
+# Versao recomendada: Python 3.11
+
+# Inteligencia artificial
+groq
+requests
+
+# Reconhecimento de voz
+SpeechRecognition
+PyAudio
+
+# Sintese e reproducao de voz
+edge-tts
+pygame
+pyttsx3
+
+# Comunicacao com Arduino
+pyserial
+
+# Visao computacional
+opencv-contrib-python
+numpy
